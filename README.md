@@ -1,5 +1,5 @@
 ## Overview
-## **PLEASE ALLOW NO MORE THAN 20 MINUTES PER PROBLEM**
+## **PLEASE ALLOW NO MORE THAN 30 MINUTES PER PROBLEM**
 
 This assessment consists of multiple problems, each contained in its own numbered folder (e.g., `1/`, `2/`).  
 Each folder includes the following files:
@@ -28,6 +28,7 @@ To view Markdown files properly in VS Code, open the file and press:
 2. Implement Your Solution
 
 - Write your solution inside `problem.py`.
+- Give your time and space complexity analysis in the comments.
 - If you write any notes or pseudocode, please leave those as comments in `problem.py` so that I can see your problem solving approach.
 
 3. Run the Tests
